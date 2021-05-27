@@ -1,0 +1,43 @@
+.wbc{
+    background-image: url('./images/bc-main.png'); 
+    height: 100vh;
+    background-size: cover;
+}
+.warnning{
+    height: 100vh;
+    flex-direction: row;
+}
+
+.bottom{
+    height: 25%;
+    border-radius: 35px;
+    background-color: rgb(252, 209, 84);
+    margin: auto;
+    width: 80%;
+    font-size: 35px;
+    position: relative;
+    top: 40%;
+    color: #333333;
+    border: solid 7px black;
+    box-shadow: #D8983C 0px -20px  0px inset;
+}
+.text{
+    width: 80%;
+    position: absolute;
+    top: 70px;
+    left: 50px;
+    font-weight: 1000;
+    text-align: center;
+}
+.sure{
+    height: 40px;
+    width: 280px;
+    position: absolute;
+    right: 25%;
+    bottom: 30%;
+    background-color: #FFFFFF;
+    font-weight: 1000;
+    text-align: center;
+    line-height: 60px;
+    border-radius: 30px;
+}

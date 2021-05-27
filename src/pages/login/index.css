@@ -1,0 +1,56 @@
+
+.border{
+    position: absolute;
+    z-index: 6;
+    color:rgb(127,94,79);
+    height: 400px;
+    width: 550px;
+    border: solid 6px black;
+    border-radius: 35px;
+    background-color:rgb(252, 209, 84);
+    top: 400px;
+    left: 50%;
+    margin-left: -275px;
+}
+.h{
+    text-align: center;
+}
+.input{
+    text-align: start;
+    height: 380px;
+    width: 525px;
+    margin: auto;
+    background-color: #fff;
+    border-radius: 35px;
+}
+.input_text{
+    font-size: 30px;
+    display: flex;
+    margin-top: 50px;
+}
+.weui-input {
+    width: 35vw;
+    margin-left: 15px;
+    background-color: rgb(255, 244, 216);
+    border-radius: 15px;
+}
+.button{
+    position: relative;
+    margin:auto;
+    margin-top: 125px;
+    width: 300px;
+    text-align: center;
+  
+    
+}
+.button1{
+    border: solid 6px black;
+    border-radius: 35px;
+    background-color: rgb(252, 209, 84);
+    box-shadow: rgb(217, 151, 61) 0px -15px  0px inset;
+}
+.t{
+    text-align: center;
+    margin-top: 40px;
+    font-size: 5px;
+}

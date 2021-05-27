@@ -1,0 +1,37 @@
+.choose{
+    background-image: url('./images/login.png'); 
+    height: 100vh;
+    background-size: cover;
+}
+.wuli{
+    text-align: center;
+    height: 100px;
+    border-radius: 35px;
+    background-color: rgb(252, 209, 84);
+    margin: auto;
+    width: 6.01rem;
+    font-size: 50px;
+    position: relative;
+    top: 750px;
+    color: #fff;
+    border: solid 7px black;
+    box-shadow: rgb(117, 74, 22) 0px -6px  0px inset;
+}
+.text{
+    height: 100%;
+}
+.huashi{
+    text-align: center;
+    height: 100px;
+    border-radius: 35px;
+    width: 6.01rem;
+    font-size: 50px;
+    margin: auto;
+    margin-top: 55px;
+    background-color:rgb(252, 209, 84);
+    position: relative;
+    top: 750px;
+    color: #fff;
+    border: solid 7px black;
+    box-shadow: rgb(117, 74, 22) 0px -6px  0px inset;
+}

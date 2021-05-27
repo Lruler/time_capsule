@@ -1,0 +1,82 @@
+
+.b{
+    position: relative; 
+    max-height: 100vh;
+    overflow-y: hidden;
+}
+.bc{
+    height: 100vh;
+    width: 100vw;
+    background-size: cover;
+}
+.manager{
+    position: absolute;
+    height: 20px;
+    width: 200px;
+    font-size: 5px;
+    top: 300px;
+    left: 500px;
+}
+.location1{
+    width: 80px;
+    height: 80px;
+    top:650px;
+    left: 500px;
+    position: absolute;
+}
+.burying1{
+    width: 80px;
+    height: 80px;
+    top:590px;
+    left: 500px;
+    position: absolute;
+}
+.location2{
+    width: 80px;
+    height: 80px;
+    position: absolute;
+    top: 500px;
+    left: 600px;
+}
+.burying2{
+    width: 80px;
+    height: 80px;
+    top:440px;
+    left: 600px;
+    position: absolute;
+}
+.location3{
+    width: 80px;
+    height: 80px;
+    position: absolute;
+    top: 800px;
+    left: 200px;
+}
+.burying3{
+    width: 80px;
+    height: 80px;
+    top:740px;
+    left: 200px;
+    position: absolute;
+}
+.tobury{ 
+    background-color: rgb(252,209,84);
+    border: solid 6px black;
+    position: absolute;
+    bottom: 0;
+    height: 150px;
+    width: 400px;
+    left: 50%;
+    margin-left: -200px;
+    font-size: 35px;
+    border-radius: 35px;
+    line-height: 125px;
+    text-align: center;
+    box-shadow
+    : rgb(217, 151, 61) 0px -15px  0px inset;
+    z-index: 2;
+}
+
+
+
+

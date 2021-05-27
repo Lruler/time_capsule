@@ -1,0 +1,38 @@
+
+.get{
+    position: absolute;
+    top: 300px;
+    border: solid black 6px;
+    background-color: rgb(252, 209, 84);
+    border-radius: 25px;
+    width: 80%;
+    left: 50%;
+    margin-left: -40%;
+    text-align: center;
+    height: 35%;
+    box-shadow: rgb(217, 151, 61) 0px -15px  0px inset;
+   
+}
+.Item{
+    overflow: scroll;
+    height: 85%;
+ 
+}
+.bury{
+    position: absolute;
+    top: 900px;
+    border: solid black 6px;
+    background-color: rgb(252, 209, 84);
+    border-radius: 25px;
+    width: 80%;
+    margin-top: 20px;
+    left: 50%;
+    margin-left: -40%;
+    text-align: center;
+    height: 35%;
+    box-shadow: rgb(217, 151, 61) 0px -15px  0px inset;
+}
+.h1{
+    font-size: 35px;
+    font-weight: bolder;
+}

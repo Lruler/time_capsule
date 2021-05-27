@@ -1,0 +1,39 @@
+/* .index{
+    background-image: url('./images/bc.png'); 
+    height: 100vh;
+    background-size: cover;
+    position: relative;
+} */
+.wenhao{
+    width: 30px;
+    height: 40px;
+    position: absolute;
+    top: 150px;
+    left: 600px;
+    z-index: 999;
+}
+.role{
+    background-color: rgb(252,209,84);
+    left: 50%;
+    margin-left: -325px;
+    top:400px;
+    position: absolute;
+    height: 800px;
+    width: 650px;
+    border-radius: 50px;
+    border: solid 6px black;
+    text-align: center;
+    z-index: 999;
+}
+.h{
+    font-size: 80px;
+}
+.details{
+    text-align: start;
+    font-weight: bold;
+    font-size: 35px;
+    background-color: #fff;
+    width: 90%;
+    margin: auto;
+    border-radius: 30px;
+}
